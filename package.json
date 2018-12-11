@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "X"
+    "url": "https://github.com/agrillenberger/chunked-http"
   },
   "keywords": [
     "chunked",
